@@ -4,6 +4,14 @@
 
 Welcome to my certification portfolio! This README provides an overview of the certifications I have earned, along with brief descriptions and links to the respective certification providers or verification pages.
 
+## AWS Academy Graduate - AWS Academy Data Analytics
+
+**Description:** The certificate provides information about AWS Cloud Infrastructure with a focus on Data Analytics with hands-on experience with AWS Sandbox using practices like AWS S3, Glue, Athena, Redshift, AWS IAM, AWS Management Console, SageMaker, AWS CLI, Amazon EC2, AWS Data Pipeline, Amazon Kinesis, Amazon ES, Kibana, AWS IoT Analytics. After this, we made a real-life project using the cloud best practices.
+
+**Certification Date:** December 2022
+
+**Certification Verification:** [Link to Verification Page](https://www.credly.com/badges/1407caa5-5128-404e-b64c-f010c9b27b6c/linked_in_profile)
+
 ## Academy Accreditation - Generative AI Fundamentals
 
 **Description:** This accreditation program provides a deep understanding of Generative Artificial Intelligence (GenAI) fundamentals, with a particular emphasis on Large Language Models (LLMs) and Governance.
@@ -14,7 +22,7 @@ Welcome to my certification portfolio! This README provides an overview of the c
 
 ## Accenture Data Analytics and Visualization Job Simulation
 
-**Description:** The "Data Analytics and Visualization Job Simulation" is a comprehensive project that immerses participants in the entire data analysis and visualization process, mirroring real-world scenarios contained Project Understanding, Data Cleaning & Modeling, and Data Visualization & Stroy Telling Presentation.
+**Description:** The "Data Analytics and Visualization Job Simulation" is a comprehensive project that immerses participants in the entire data analysis and visualization process, mirroring real-world scenarios containing Project Understanding, Data Cleaning and modeling, and Data Visualization and storytelling presentation.
 
 **Certification Date:** September 2023
 
@@ -38,7 +46,7 @@ Welcome to my certification portfolio! This README provides an overview of the c
 
 ## BCG Data Science & Analytics Virtual Experience Program
 
-**Description:** The certificate provided hands-on experience working on BCG Client PowerCo with predictions of churning customers and providing solution strategy with sections on Business Understanding & Hypothesis, Framing Exploratory Data Analysis, Feature Engineering & Modelling, and Findings & Recommendations.
+**Description:** The certificate provided hands-on experience working on BCG Client PowerCo with predictions of churning customers and providing solution strategy with sections on Business Understanding and hypothesis, Framing Exploratory Data Analysis, Feature Engineering and modeling, and Findings and recommendations.
 
 **Certification Date:** June 2023
 
@@ -54,7 +62,7 @@ Welcome to my certification portfolio! This README provides an overview of the c
 
 ## PwC Power BI Virtual Case Experience
 
-**Description:** The certificate provides hands-on experience for Introduction, Call Centre Trends, Customer Retention, and Diversity & Inclusion Dashboards for actionable business insights defining KPIs and metrics.
+**Description:** The certificate provides hands-on experience for Introduction, Call Centre Trends, Customer Retention, and Diversity and inclusion Dashboards for actionable business insights defining KPIs and metrics.
 
 **Certification Date:** June 2023
 
@@ -62,19 +70,11 @@ Welcome to my certification portfolio! This README provides an overview of the c
 
 ## SAP Technical Consulting Virtual Internship
 
-**Description:** The certificate program provides information about working with SAP Analytics Cloud for Fond Rogue's US Operation facing counterfiet and quality issues using sections like Assemble the Data (SAP Analytics Cloud Data Model), Data	Analysis, and Presenting the Results with real-time dashboards
+**Description:** The certificate program provides information about working with SAP Analytics Cloud for Fond Rogue's US Operation facing counterfeit and quality issues using sections like Assemble the Data (SAP Analytics Cloud Data Model), Data	Analysis, and Presenting the Results with real-time dashboards
 
 **Certification Date:** June 2023
 
 **Certification Verification:** [Link to Verification Page](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SAP/tKxM2fzpMvmuA8sei_SAP%20USA_XF6aFnq82kbzeAhar_1688006289742_completion_certificate.pdf)
-
-## AWS Academy Graduate - AWS Academy Data Analytics
-
-**Description:** The certificate provides information about AWS CLoud Infrastructure with focus on Data Analytics with hands-on experience with AWS Sandbox using practices like AWS S3, Glue, Athena, Redshift, AWS IAM, AWS Management Console, SageMaker, AWS CLI, Amazon EC2, AWS Data Pipeline, Amazon Kinesis, Amazon ES, Kibana, AWS IoT Analytics. After which we made a real life project using the cloud best practices.
-
-**Certification Date:** December 2022
-
-**Certification Verification:** [Link to Verification Page](https://www.example.com/verification-link)
 
 ## Solo Learn - SQL Certification
 
